@@ -26,7 +26,7 @@ SpaceX revolutionized space travel by making the first stage of their Falcon 9 r
 To predict the outcome of a Falcon 9 landing, the project uses the following process:
 1. **Data Collection and Cleansing**: The dataset was collected from publicly available data on SpaceX launches. We processed and cleansed the data to remove inconsistencies and prepare it for analysis.
 2. **Exploratory Data Analysis (EDA)**: EDA techniques were used to understand the relationships between different variables and their impact on the landing success of Falcon 9's first stage.
-3. **Model Training**: Various machine learning models were trained and tested, including Logistic Regression, Decision Trees, and others. The models were tuned using GridSearchCV to find the best hyperparameters.
+3. **Model Training**: Various machine learning models were trained and tested, including Logistic Regression, SVM, and others. The models were tuned using GridSearchCV to find the best hyperparameters.
 
 ## Key Findings
 
@@ -41,7 +41,7 @@ To predict the outcome of a Falcon 9 landing, the project uses the following pro
 3. **[Machine Learning Model Notebook](https://github.com/Naveen-Baburaj/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/Machine%20Learning.ipynb)**: Model training, hyperparameter tuning, and evaluation.
 4. **[Dataset](https://github.com/Naveen-Baburaj/SpaceX-Falcon-9-first-stage-Landing-Prediction/blob/main/SpaceXdataset.csv)**: The dataset used for this project.
 
-## Technologies Used
+## Key Technologies Used
 - **Python**
 - **Pandas**
 - **NumPy**
