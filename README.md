@@ -7,6 +7,7 @@ This project aims to predict the successful landing of the first stage of SpaceX
 ### Motivation
 
 SpaceX revolutionized space travel by making the first stage of their Falcon 9 rocket reusable. Unlike traditional rockets, which are discarded after a single use, Falcon 9's first stage is designed to land safely back on Earth after launching its payload into space. This reusability drastically reduces launch costs, making space exploration more accessible and sustainable. Predicting whether the first stage will land successfully allows for further optimization of launches, helping ensure cost efficiency and improved planning.
+![Description of the GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpjdHkzcGU0anZ6bzQzOHZ6MjRlNWhub3VqY3kxcXVkNTU1dThpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAWTWbL2aMXeXs8WZs/giphy.webp)
 
 ### Key Benefits of Reusable Rockets
 - **Cost Reduction**: Traditional rockets are single-use, leading to high production costs for each launch. Reusable rockets allow for multiple uses of the same hardware, reducing the cost per launch significantly.
