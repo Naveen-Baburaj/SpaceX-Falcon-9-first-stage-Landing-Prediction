@@ -21,6 +21,12 @@ SpaceX revolutionized space travel by making the first stage of their Falcon 9 r
 - **Sustainability**: By reusing rockets, fewer resources are needed, making the overall process more environmentally friendly.
 - **Increased Launch Frequency**: With reduced costs, companies like SpaceX can increase the frequency of their launches, accelerating advancements in space exploration and technology.
 
+- 
+<div align="center">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW53ZHBwMWdld3gwenAwZ3lkZmc5c25wdW5kdjh2c3Rpczloc2JpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bueqp6vf6qYUe8o/giphy.webp" alt="SpaceX Falcon 9" />
+</div>
+
+
 ### Machine Learning Approach
 
 To predict the outcome of a Falcon 9 landing, the project uses the following process:
