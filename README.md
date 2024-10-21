@@ -2,6 +2,9 @@
 
 This project aims to predict the successful landing of the first stage of SpaceX's Falcon 9 rockets. By analyzing key data points from previous launches, we explore different machine learning models to find the one that best predicts if the first stage of the rocket will land successfully, which is crucial for improving the cost-efficiency of space missions.
 
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlla2JvbXAwNWJxOXc0ZGR4ajVjcmdobnNkMnlxeHgyN3cxMGt5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39CRup15MdJgjLy0/giphy.webp)
+
+
 ## Project Overview
 
 ### Motivation
